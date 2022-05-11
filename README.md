@@ -1,2 +1,2 @@
 # Belajar-Django
-Sofia Ardina
+Wiki Nasmansyah
